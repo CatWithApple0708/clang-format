@@ -79,4 +79,3 @@
 配置里面只是用到了一些实用的代码格式化规则，还有更多的规则如block，switch规则等等，可以在“参考文档”里面一一亲测感受一下，相信使用过clang-format的同学们肯定感觉深刻。
 
 参考文档：http://clang.llvm.org/docs/ClangFormatStyleOptions.html
-clang-format
